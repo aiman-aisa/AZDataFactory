@@ -1,5 +1,5 @@
 {
-	"name": "01-ActivityLog-Pipeline",
+	"name": "01-Pipeline-CSV-Pool",
 	"properties": {
 		"activities": [
 			{
